@@ -132,8 +132,8 @@
 
 ### User Story Map
 
-![User Story Map](./docs/user-story-map.png)
+![User Story Map](./docs/user-story-map.pdf)
 
 ### Miro
 
-[Открыть User Story Map в Miro](YOUR_MIRO_LINK)
+[Открыть User Story Map в Miro](https://miro.com/welcomeonboard/OVRmUmJRT1EvdWVSZ0xtaE1COEhrQmx1T0RVMVUzYnh5eDdld1RHOUVXNndVUkVxeDRtaDVTNUhyY3NzWVI0dFhEZjNjOVcrUHlIZGd5VXJySkFjZjc5NHZHOEUyWXRVb0Z5MU9Tam4weFNROVh2YnJJRGdFSG9ZZWx4N0J2Q3VNakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=781466718486)
