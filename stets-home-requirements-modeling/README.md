@@ -84,7 +84,6 @@ Stets-устройств.
 
 Для описания потоков данных разработаны:
 
-- контекстная диаграмма;
 - логическая DFD;
 - физическая DFD.
 
@@ -97,17 +96,13 @@ Stets-устройств.
 5. Управление домом.
 6. Управление сценариями.
 
-### Контекстная диаграмма
-
-![DFD Context](./01-requirements/dfd-context.png)
-
 ### Логическая DFD
 
-![DFD Logical](./01-requirements/dfd-logical.png)
+![DFD Logical](./docs/dfd-logical.png)
 
 ### Физическая DFD
 
-![DFD Physical](./01-requirements/dfd-physical.png)
+![DFD Physical](./docs/dfd-physical.png)
 
 ---
 
@@ -137,7 +132,7 @@ Stets-устройств.
 
 ### ER Diagram
 
-![ER Diagram](./01-requirements/er-diagram.png)
+![ER Diagram](./docs/er-diagram.drawio.png)
 
 ---
 
@@ -153,7 +148,7 @@ Stets-устройств.
 - длина;
 - допустимые значения.
 
-[Открыть словарь данных](./01-requirements/data-dictionary.docx)
+[Открыть словарь данных](./docs/data-dictionary.docx)
 
 ---
 
@@ -166,7 +161,7 @@ Stets-устройств.
 
 ### Interface Structure Diagram
 
-![ISD](./01-requirements/isd-diagram.png)
+![ISD](./docs/isd-diagram.png)
 
 ---
 
@@ -209,7 +204,7 @@ Stets-устройств.
 
 ## 🔗 Figma Prototype
 
-[Открыть прототип в Figma](YOUR_FIGMA_LINK)
+[Открыть прототип в Figma](https://www.figma.com/design/7ECakfibVU7ohr3ascYDa6/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-Stets--Copy-?node-id=4-581&t=R5tH7v8qQXS4oMax-1)
 
 ---
 
@@ -238,7 +233,7 @@ Stets-устройств.
 - управление освещением;
 - автоматизация процессов.
 
-[Открыть ПМИ](./03-testing/test-program-methodology.docx)
+[Открыть ПМИ](./docs/test-program-methodology.docx)
 
 ---
 
