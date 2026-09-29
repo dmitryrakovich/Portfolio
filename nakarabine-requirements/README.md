@@ -174,4 +174,4 @@
 
 Основной результат проекта:
 
-[`Nakarabine SRS`](./docs/nakarabine-srs.pdf)
+[`Nakarabine SRS`](./nakarabine-srs.pdf)
